@@ -1,0 +1,7 @@
+.place__paragraph {
+    grid-area: paragraph;
+    color: #FFF;
+    font-size: 18px;
+    line-height: 29px;
+    margin: 0;
+}
