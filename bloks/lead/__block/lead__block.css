@@ -1,0 +1,9 @@
+.lead__block {
+  max-width: calc(100% - 100px*2);
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__block {
+    max-width: 100%;
+    }
+  }
