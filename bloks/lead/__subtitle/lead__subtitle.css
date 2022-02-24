@@ -2,6 +2,6 @@
   text-align: center;
   font-size: 30px;
   color: white;
-  width: 640px;
-  margin: 0 0 56px;
+  max-width: 640px;
+  margin: 0 0 64px;
 }

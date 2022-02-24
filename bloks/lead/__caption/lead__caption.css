@@ -4,4 +4,7 @@
   line-height: 14px;
   text-transform: uppercase;
   align-self: flex-start;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  margin-bottom: 0;
 }
