@@ -4,3 +4,9 @@
   color: #FFF;
   margin: 0;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    margin: 32px 0 0;
+  }
+}

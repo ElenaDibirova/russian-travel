@@ -12,3 +12,8 @@
     min-width: calc(100% + 24px*2);
     }
   }
+  @media screen and (max-width: 768px) {
+    .lead__block {
+      min-width: calc(100% + 16px*2);
+      }
+    }
