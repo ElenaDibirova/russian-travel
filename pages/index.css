@@ -35,15 +35,15 @@
 @import url(../bloks/place/__url-heading/place__url-heading.css);
 @import url(../bloks/place/__website/place__website.css);
 
-@import URL(../bloks/cover/cover.css);
-@import URL(../bloks/cover/__overlay/cover__overlay.css);
-@import url(../bloks/cover/__text/cover__text.css);
-@import URL(../bloks/cover/__title/cover__title.css);
-@import URL(../bloks/cover/__subtitle/cover__subtitle.css);
-@import URL(../bloks/cover/__background/cover__background.css);
-@import URL(../bloks/cover/__title-text/cover__title-text.css);
-
 @import URL(../bloks/footer/footer.css);
 @import URL(../bloks/footer/__copyright/footer__copyright.css);
 @import URL(../bloks/footer/__link/footer__link.css);
 @import URL(../bloks/footer/__links/footer__links.css);
+
+@import URL(../bloks/cover/cover.css);
+@import URL(../bloks/cover/__container/cover__container.css);
+@import url(../bloks/cover/__description/cover__description.css);
+@import URL(../bloks/cover/__img/cover__img.css);
+@import URL(../bloks/cover/__overlay/cover__overlay.css);
+@import URL(../bloks/cover/__title/cover__title.css);
+@import url(../bloks/cover/__text/cover__text.css);
