@@ -10,3 +10,10 @@
   margin-top: 80px;
   max-width: 984px;
 }
+
+@media screen and (max-width: 768px) {
+  .place {
+    margin-top: 0;
+    gap: 45px 20px;
+  }
+}
