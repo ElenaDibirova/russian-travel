@@ -18,7 +18,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 540px) {
   .place {
     margin-top: 0;
     gap: 0;
@@ -28,5 +28,6 @@
   "image"
   "paragraph";
   grid-template-rows: min-content min-content 1fr;
+  grid-template-columns: 1fr ;
   }
 }
