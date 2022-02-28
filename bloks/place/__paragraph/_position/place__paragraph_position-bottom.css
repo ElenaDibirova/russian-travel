@@ -1,9 +1,9 @@
-.place__paragraph_position_bottom {
+.place__paragraph_position-bottom {
   margin: 27px 0 0;
 }
 
 @media screen and (max-width: 540px) {
-  .place__paragraph_position_bottom {
+  .place__paragraph_position-bottom {
     margin: 25px 0 0;
   }
 }
