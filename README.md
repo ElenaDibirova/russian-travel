@@ -21,3 +21,11 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+
+
+// TODO
+1 remove unnecessaries fonts
+2 add alternative systems fonts
+3 validate
+4 read about github pages
