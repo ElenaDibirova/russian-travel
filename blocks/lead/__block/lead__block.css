@@ -1,0 +1,17 @@
+.lead__block {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__block {
+    width: calc(100% + 48px*2);
+    max-width: calc(100% + 48px*2);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__block {
+    width: calc(100% + 16px*2);
+    max-width: calc(100% + 16px*2);
+  }
+}
