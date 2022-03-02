@@ -14,11 +14,11 @@
 @media screen and (max-width: 768px) {
   .place {
     margin-top: 0;
-    gap: 45px 20px;
+    gap: 46px 20px;
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 590px) {
   .place {
     gap: 0;
     grid-template-areas: 
