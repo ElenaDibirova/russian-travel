@@ -6,6 +6,7 @@
   line-height: 28px;
   text-decoration: none;
 }
+
 .header__link:hover {
   opacity: 0.8;
 }
