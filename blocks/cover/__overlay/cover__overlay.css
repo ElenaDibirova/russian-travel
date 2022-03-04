@@ -7,6 +7,11 @@
   color: #fff;
   text-decoration: none;
   min-height: 740px;
+  background-image: url(../../../images/__cover_baikal.jpg);
+  background-size: cover;
+  background-position: center;
+  max-width: 1184px;
+  margin: 0 auto;
 }
 
 .cover__overlay:before {
